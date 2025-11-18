@@ -1,6 +1,5 @@
 # TotalUniqueStudents
 Aplicação em Java que utiliza conjuntos (Set) para registrar códigos de alunos em três cursos e calcular quantos estudantes únicos existem no total. Evita duplicidade e demonstra operações de união entre conjuntos.
-Perfeito! Vou criar um README no mesmo estilo do que você fez para o `VoteCounter`, mas adaptado para o seu programa que utiliza `Set` para contar alunos em cursos diferentes. Aqui está uma sugestão detalhada:
 
 ---
 
